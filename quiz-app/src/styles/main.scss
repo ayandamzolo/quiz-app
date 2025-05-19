@@ -1,0 +1,28 @@
+/* @use "abstracts/variables" as *;
+@use "abstracts/mixins" as *;
+@use "abstracts/functions" as *; */
+
+@use "base/reset";
+@use "base/colors";
+@use "base/typography";
+@use "base/global";
+@use "base/utilities";
+
+@use "layouts/header";
+@use "layouts/screen";
+@use "layouts/screen-start";
+@use "layouts/screen-user";
+@use "layouts/quiz";
+@use "layouts/screen-results";
+
+
+@use "components/option";
+@use "components/question";
+@use "components/multiple-choice";
+@use "components/fill-blanks";
+@use "components/progress-bar";
+@use "components/timer";
+@use "components/button";
+@use "components/checkbox";
+
+@use "components/points";
