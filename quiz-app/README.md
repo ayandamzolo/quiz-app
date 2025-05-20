@@ -76,10 +76,10 @@ npm -v
 ## 🔗 Accessing the App & Admin Pages
 
 - **Main App (Vite dev server):**  
-  [https://immersion-team3.onrender.com](https://immersion-team3.onrender.com)
+  [https://quiz-app-gpsw.onrender.com](https://quiz-app-gpsw.onrender.com)
 
 - **Admin Pages (served by Express backend):**  
-  [https://immersion-team3.onrender.com/admin/dashboard.html](https://immersion-team3.onrender.com/admin/dashboard.html)
+  [https://quiz-app-gpsw.onrender.com/admin/dashboard.html](https://quiz-app-gpsw.onrender.com/admin/dashboard.html)
 ---
 
 ## How to Contribute
